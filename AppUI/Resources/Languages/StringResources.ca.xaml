@@ -3,162 +3,162 @@
                     xmlns:system="clr-namespace:System;assembly=mscorlib">
 
     <!--Main Window Buttons-->
-    <system:String x:Key="Play">Jugar</system:String>
-    <system:String x:Key="PlayWithMods">Jugar con Mods (predeterminado)</system:String>
-    <system:String x:Key="PlayWithNoMods">Jugar sin Mods</system:String>
-    <system:String x:Key="PlayWithMinimalValidation">Jugar con validación mínima</system:String>
-    <system:String x:Key="PlayWithDebugLog">Jugar con debug log</system:String>
-    <system:String x:Key="PlayWithVariableDump">Jugar con variable dump</system:String>
+    <system:String x:Key="Play">Juga</system:String>
+    <system:String x:Key="PlayWithMods">Juga amb Mods (predeterminado)</system:String>
+    <system:String x:Key="PlayWithNoMods">Juga sense Mods</system:String>
+    <system:String x:Key="PlayWithMinimalValidation">Juga amb validació mínima</system:String>
+    <system:String x:Key="PlayWithDebugLog">Juga amb registre de depuració</system:String>
+    <system:String x:Key="PlayWithVariableDump">Juga amb volcat de variables</system:String>
 
-    <system:String x:Key="Settings">Opciones</system:String>
-    <system:String x:Key="ChangeColorTheme">Cambiar el color del tema...</system:String>
-    <system:String x:Key="GeneralSettings">Opciones generales...</system:String>
-    <system:String x:Key="GameDriver">Controlador del juego...</system:String>
-    <system:String x:Key="GameLauncher">Lanzador del juego...</system:String>
-    <system:String x:Key="Profiles">Perfiles...</system:String>
+    <system:String x:Key="Settings">Opcions</system:String>
+    <system:String x:Key="ChangeColorTheme">Canvia el color del tema...</system:String>
+    <system:String x:Key="GeneralSettings">Opcions generals...</system:String>
+    <system:String x:Key="GameDriver">Controlador del joc...</system:String>
+    <system:String x:Key="GameLauncher">Llenador del joc...</system:String>
+    <system:String x:Key="Profiles">Perfils...</system:String>
     <system:String x:Key="Language">Idioma...</system:String>
 
 
-    <system:String x:Key="Tools">Herramientas</system:String>
-    <system:String x:Key="CatalogModCreationTool">Herramienta de Catálogo/Creación de Mods...</system:String>
-    <system:String x:Key="ChunkTool">Herramientas de Sección...</system:String>
-    <system:String x:Key="IROTools">Herramientas IRO...</system:String>
+    <system:String x:Key="Tools">Eines</system:String>
+    <system:String x:Key="CatalogModCreationTool">Eina de creació de mods/catàlegs...</system:String>
+    <system:String x:Key="ChunkTool">Eines de Seccions...</system:String>
+    <system:String x:Key="IROTools">Eines IRO...</system:String>
 
-    <system:String x:Key="Help">Ayuda</system:String>
+    <system:String x:Key="Help">Ajuda</system:String>
 
     <!--DEV NOTE TO REMOVE: STRINGS BELOW ADDED 23/06/20-->
-    <system:String x:Key="HelpOpen">Abrir ayuda</system:String>
-    <system:String x:Key="HelpOpenAbout">Acerca de</system:String>
+    <system:String x:Key="HelpOpen">Obre ajuda</system:String>
+    <system:String x:Key="HelpOpenAbout">Sobre</system:String>
 
-    <system:String x:Key="MyMods">Mis Mods</system:String>
-    <system:String x:Key="MyModsTooltip">Haz clic derecho en la pestaña 'Mis Mods' para abrir la carpeta de la Biblioteca de Mods.</system:String>
+    <system:String x:Key="MyMods">Els Meus Mods</system:String>
+    <system:String x:Key="MyModsTooltip">Fes clic dret a la pestanya «Els Meus Mods» per obrir la carpeta de la Biblioteca de Mods.</system:String>
 
-    <system:String x:Key="BrowseCatalog">Examinar Catálogo</system:String>
-    <system:String x:Key="BrowseCatalogTooltip">Haz clic derecho en la pestaña 'Examinar Catálogo' para abrir la configuración del Catálogo.</system:String>
+    <system:String x:Key="BrowseCatalog">Examina el Catàleg</system:String>
+    <system:String x:Key="BrowseCatalogTooltip">Fes clic dret a la pestanya «Examina el Catàleg» per obrir-ne la configuració.</system:String>
 
-    <system:String x:Key="SearchHint">Escribe aquí para buscar ...</system:String>
-    <system:String x:Key="FiltersTooltip">Haz clic para seleccionar las categorías y etiquetas quieres filtrar.</system:String>
+    <system:String x:Key="SearchHint">Escriu aquí per cercar ...</system:String>
+    <system:String x:Key="FiltersTooltip">Clica per seleccionar les categories i etiquetes a filtrar.</system:String>
 
-    <system:String x:Key="StatusBarTooltip">Haz clic para ver el registro de la aplicación</system:String>
+    <system:String x:Key="StatusBarTooltip">Clica per veure el registre de l'aplicació</system:String>
 
 
     <!--Mod Info Panel-->
-    <system:String x:Key="ModInfoHeader" xml:space="preserve"> Información del Mod </system:String>
-    <system:String x:Key="NameLabel">Nombre:</system:String>
+    <system:String x:Key="ModInfoHeader" xml:space="preserve"> Informació del Mod </system:String>
+    <system:String x:Key="NameLabel">Nom:</system:String>
     <system:String x:Key="AuthorLabel">Autor:</system:String>
-    <system:String x:Key="ReleasedLabel">Fecha de publicación:</system:String>
-    <system:String x:Key="CategoryLabel">Categoría:</system:String>
-    <system:String x:Key="VersionLabel">Versión:</system:String>
+    <system:String x:Key="ReleasedLabel">Publicació:</system:String>
+    <system:String x:Key="CategoryLabel">Categoria:</system:String>
+    <system:String x:Key="VersionLabel">Versió:</system:String>
 
-    <system:String x:Key="ClickHere">Clic aquí</system:String>
-    <system:String x:Key="None">Ninguno</system:String>
+    <system:String x:Key="ClickHere">Clica aquí</system:String>
+    <system:String x:Key="None">Cap</system:String>
 
-    <system:String x:Key="AutoUpdateInstall">Actualizar/Instalar automáticamente</system:String>
-    <system:String x:Key="Ignore">Ignorar</system:String>
-    <system:String x:Key="Notify">Notificar</system:String>
+    <system:String x:Key="AutoUpdateInstall">Actualiza/Instal·la automàticament</system:String>
+    <system:String x:Key="Ignore">Ignora</system:String>
+    <system:String x:Key="Notify">Notifica</system:String>
 
-    <system:String x:Key="DescriptionLabel">Descripción:</system:String>
-    <system:String x:Key="LinkLabel">Enlace:</system:String>
-    <system:String x:Key="ReadmeLabel">Léeme:</system:String>
-    <system:String x:Key="ReleaseNotesLabel">Notas de la versión:</system:String>
-    <system:String x:Key="DonationLinkLabel">Enlace de donativos:</system:String>
+    <system:String x:Key="DescriptionLabel">Descripció:</system:String>
+    <system:String x:Key="LinkLabel">Enllaç:</system:String>
+    <system:String x:Key="ReadmeLabel">Llegeix-me:</system:String>
+    <system:String x:Key="ReleaseNotesLabel">Notes de la versió:</system:String>
+    <system:String x:Key="DonationLinkLabel">Enllaç de donatius:</system:String>
 
-    <system:String x:Key="NoPreviewImage">Sin imagen previa</system:String>
+    <system:String x:Key="NoPreviewImage">Sense imatge</system:String>
 
 
     <!-- Browse Catalog Tab -->
-    <system:String x:Key="Name">Nombre</system:String>
+    <system:String x:Key="Name">Nom</system:String>
     <system:String x:Key="Author">Autor</system:String>
-    <system:String x:Key="Released">Fecha de publicación</system:String>
-    <system:String x:Key="Category">Categoría</system:String>
-    <system:String x:Key="Size">Tamaño</system:String>
+    <system:String x:Key="Released">Publicació</system:String>
+    <system:String x:Key="Category">Categoria</system:String>
+    <system:String x:Key="Size">Mida</system:String>
     <system:String x:Key="Inst">Inst.</system:String>
 
 
-    <system:String x:Key="RefreshCatalogTooltip">Forzar la actualización de todas las Suscripciones y actualizar el Catálogo</system:String>
-    <system:String x:Key="DownloadModTooltip">Descargar el Mod seleccionado</system:String>
-    <system:String x:Key="ResetColumnsTooltip">Restablecer columnas</system:String>
+    <system:String x:Key="RefreshCatalogTooltip">Força l'actualització de totes les Subscripcions i actualitza el Catàleg</system:String>
+    <system:String x:Key="DownloadModTooltip">Descarrega el Mod seleccionat</system:String>
+    <system:String x:Key="ResetColumnsTooltip">Restableix columnes</system:String>
 
     <system:String x:Key="Item">Ítem</system:String>
-    <system:String x:Key="Progress">Progreso</system:String>
-    <system:String x:Key="Speed">Velocidad</system:String>
-    <system:String x:Key="TimeLeft">Duración</system:String>
+    <system:String x:Key="Progress">Progrés</system:String>
+    <system:String x:Key="Speed">Velocitat</system:String>
+    <system:String x:Key="TimeLeft">Duració</system:String>
 
-    <system:String x:Key="CancelDownloadTooltip">Cancelar la descarga seleccionada</system:String>
+    <system:String x:Key="CancelDownloadTooltip">Cancel·la la descàrrega seleccionada</system:String>
 
 
     <!--My Mods Tab-->
-    <system:String x:Key="Active">Activo</system:String>
+    <system:String x:Key="Active">Actiu</system:String>
 
-    <system:String x:Key="ImportModTooltip">Importar Mod</system:String>
-    <system:String x:Key="MoveUpTooltip">Desplazar hacia arriba/Clic derecho para desplazar al principio</system:String>
-    <system:String x:Key="MoveDownTooltip">Desplazar hacia abajo/Clic derecho para desplazar al fondo</system:String>
-    <system:String x:Key="AutoSortTooltip">Ordenar automáticamente los Mods en base al orden de carga de las categorías</system:String>
-    <system:String x:Key="ConfigureModTooltip">Configurar Mod</system:String>
-    <system:String x:Key="ActivateAllTooltip">Activar todos los Mods</system:String>
-    <system:String x:Key="DeactivateAllTooltip">Desactivar todos los Mods</system:String>
-    <system:String x:Key="RefreshListTooltip">Actualizar la lista</system:String>
-    <system:String x:Key="UninstallModTooltip">Desinstalar Mod</system:String>
+    <system:String x:Key="ImportModTooltip">Importa un Mod</system:String>
+    <system:String x:Key="MoveUpTooltip">Desplaça cap amunt/Clic dret per saltar al principi</system:String>
+    <system:String x:Key="MoveDownTooltip">Desplaça cap avall/Clic dret per saltar al fons</system:String>
+    <system:String x:Key="AutoSortTooltip">Ordena automàticament els Mods amb base a l'ordre de càrrega de les categories</system:String>
+    <system:String x:Key="ConfigureModTooltip">Configura el Mod</system:String>
+    <system:String x:Key="ActivateAllTooltip">Activa tots els Mods</system:String>
+    <system:String x:Key="DeactivateAllTooltip">Desactiva tots els Mods</system:String>
+    <system:String x:Key="RefreshListTooltip">Actualiza la llista</system:String>
+    <system:String x:Key="UninstallModTooltip">Desinstal·la el Mod</system:String>
 
 
     <!--Generic MessageBox Buttons-->
-    <system:String x:Key="OK">Aceptar</system:String>
-    <system:String x:Key="Cancel">Cancelar</system:String>
-    <system:String x:Key="Close">Cerrar</system:String>
+    <system:String x:Key="OK">Accepta</system:String>
+    <system:String x:Key="Cancel">Cancel·la</system:String>
+    <system:String x:Key="Close">Tanca</system:String>
     <system:String x:Key="Yes">Sí</system:String>
     <system:String x:Key="No">No</system:String>
     <system:String x:Key="Off">No</system:String>
     <system:String x:Key="On">Sí</system:String>
-    <system:String x:Key="ResetDefaults">Reiniciar ajustes</system:String>
-    <system:String x:Key="Save">Guardar</system:String>
-    <system:String x:Key="Load">Cargar</system:String>
-    <system:String x:Key="Go">Adelante</system:String>
+    <system:String x:Key="ResetDefaults">Reinicia configuració</system:String>
+    <system:String x:Key="Save">Desa</system:String>
+    <system:String x:Key="Load">Carrega</system:String>
+    <system:String x:Key="Go">Avança</system:String>
 
 
     <!--Window Titles-->
-    <system:String x:Key="GameLauncherWindowTitle">Iniciando el juego</system:String>
-    <system:String x:Key="CatalogCreationWindowTitle">Herramienta del Catálogo y Creación de Mods</system:String>
-    <system:String x:Key="GameDriverWindowTitle">Configurar las opciones del Controlador del juego</system:String>
-    <system:String x:Key="UnexpectedErrorWindowTitle">7th Heaven - ¡Error inesperado!</system:String>
-    <system:String x:Key="AllowModToRun">¿Autorizar al Mod para que se ejecute?</system:String>
-    <system:String x:Key="Warning">Aviso</system:String>
-    <system:String x:Key="Requirements">Requisitos</system:String>
-    <system:String x:Key="ExternalDownload">¿Descarga externa?</system:String>
-    <system:String x:Key="MissingPath">No se ha podido encontrar la ruta</system:String>
-    <system:String x:Key="ExtractComplete">Extracción completada</system:String>
-    <system:String x:Key="InsertDisc">Introducir Disco</system:String>
+    <system:String x:Key="GameLauncherWindowTitle">S'està iniciant el joc</system:String>
+    <system:String x:Key="CatalogCreationWindowTitle">Eina de creació de Catàlegs i Mods</system:String>
+    <system:String x:Key="GameDriverWindowTitle">Configura les opcions del Controlador del joc</system:String>
+    <system:String x:Key="UnexpectedErrorWindowTitle">7th Heaven - Error inesperado!</system:String>
+    <system:String x:Key="AllowModToRun">Vols permetre que el Mod s'executi?</system:String>
+    <system:String x:Key="Warning">Avís</system:String>
+    <system:String x:Key="Requirements">Requisits</system:String>
+    <system:String x:Key="ExternalDownload">Descàrrega externa?</system:String>
+    <system:String x:Key="MissingPath">No s'ha pogut trobar la ruta</system:String>
+    <system:String x:Key="ExtractComplete">Extracció completada</system:String>
+    <system:String x:Key="InsertDisc">Introdueix Disc</system:String>
     <system:String x:Key="MissingRequiredInput">Falta una entrada requerida</system:String>
-    <system:String x:Key="IROToolsWindowTitle">Herramientas IRO</system:String>
-    <system:String x:Key="ChunkToolWindowTitle">Herramientas de Sección</system:String>
-    <system:String x:Key="ManageProfiles">Gestionar perfiles</system:String>
-    <system:String x:Key="SetLanguageWindowTitle">Elegir idioma</system:String>
+    <system:String x:Key="IROToolsWindowTitle">Eines IRO</system:String>
+    <system:String x:Key="ChunkToolWindowTitle">Eines de Secció</system:String>
+    <system:String x:Key="ManageProfiles">Gestiona els perfils</system:String>
+    <system:String x:Key="SetLanguageWindowTitle">Tria un idioma</system:String>
 
 
 
 
 
     <!--Allow Mod To Run Window-->
-    <system:String x:Key="NoDontActivateThisMod">No, no activar este Mod</system:String>
-    <system:String x:Key="YesActivateThisMod">Sí, activar este Mod</system:String>
-    <system:String x:Key="DontAskAgainForAnyMods">No preguntarme de nuevo sobre NINGÚN Mod</system:String>
+    <system:String x:Key="NoDontActivateThisMod">No, no activis aquest Mod</system:String>
+    <system:String x:Key="YesActivateThisMod">Sí, activa aquest Mod</system:String>
+    <system:String x:Key="DontAskAgainForAnyMods">No preguntar-me de nou per CAP Mod</system:String>
 
     <!--Game Launcher Settings Window-->
-    <system:String x:Key="OptionsHeader" xml:space="preserve"> Opciones </system:String>
-    <system:String x:Key="AutoMountDisc">Montar automáticamente el disco del juego</system:String>
-    <system:String x:Key="AutoMountDiscTooltip">Montar automáticamente la ISO del disco del juego al iniciar el juego. Solo para Windows 8 o superior. Para Windows 7 o anterior, necesitarás introducir el disco o montar la ISO manualmente.</system:String>
+    <system:String x:Key="OptionsHeader" xml:space="preserve"> Opcions </system:String>
+    <system:String x:Key="AutoMountDisc">Munta automàticament el disc del joc</system:String>
+    <system:String x:Key="AutoMountDiscTooltip">Munta automàticament la ISO del disc del joc en iniciar el joc. Només per a Windows 8 o superior. Per a Windows 7 o anterior, caldrà introduir el disc o muntar la ISO manualment.</system:String>
 
-    <system:String x:Key="AutoDismountDisc">Desmontar automáticamente el disco del juego</system:String>
-    <system:String x:Key="AutoDismountDiscTooltip">Desmontar automáticamente la ISO del disco del juego al cerrar el juego. Solo para Windows 8 o superior. Para Windows 7 o anterior, necesitarás expulsar el disco o desmontar la ISO manualmente.</system:String>
+    <system:String x:Key="AutoDismountDisc">Desmunta automàticament el disc del joc</system:String>
+    <system:String x:Key="AutoDismountDiscTooltip">Desmunta automàticament la ISO del disc del joc en tancar el joc. Només per a Windows 8 o superior. Per a Windows 7 o anterior, caldrà introduir el disc o muntar la ISO manualment.</system:String>
 
-    <system:String x:Key="AutoUpdatePath">Actualizar automáticamente la Ubicación del disco</system:String>
-    <system:String x:Key="AutoUpdatePathTooltip">Detecta si el disco ha cambiado la letra de la unidad y se actualiza automáticamente para apuntar a la nueva localización.</system:String>
+    <system:String x:Key="AutoUpdatePath">Actualitza automàticament la Ubicació del disc</system:String>
+    <system:String x:Key="AutoUpdatePathTooltip">Detecta si el disc ha canviat la lletra de la unitat i s'actualiza automàticament amb la nova localització.</system:String>
 
-    <system:String x:Key="ShowGameLauncher">Mostrar el Lanzador del juego</system:String>
-    <system:String x:Key="ShowGameLauncherTooltip">Muestra la ventana del Lanzador del juego al iniciar FF7 para una información más detallada sobre el proceso de lanzamiento.</system:String>
+    <system:String x:Key="ShowGameLauncher">Mostra el Llençador del joc</system:String>
+    <system:String x:Key="ShowGameLauncherTooltip">Mostra la finestra del Llençador del joc en iniciar FF7 per una informació més detallada del procés de llençament.</system:String>
 
-    <system:String x:Key="ControlsLabel">Controles:</system:String>
+    <system:String x:Key="ControlsLabel">Controls:</system:String>
 
-    <system:String x:Key="SaveControlsTooltip">Guardar la configuración de controles actual dentro del juego.</system:String>
+    <system:String x:Key="SaveControlsTooltip">Desa la configuració de controls actual dins el joc.</system:String>
     <system:String x:Key="DeleteControlsTooltip">Eliminar la configuración personalizada seleccionada.</system:String>
 
     <system:String x:Key="CompatibilityHeader" xml:space="preserve"> Compatibilidad </system:String>
